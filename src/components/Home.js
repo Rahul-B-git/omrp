@@ -2,7 +2,7 @@ import React from 'react' import { Link } from 'react-router-dom' import "../css
 <div>
     <div className="home-img">
         <img src="./img/home.jpeg" alt="" style={{ "width": "100%"}}/>
-        <div class="centered">Online Mobile Recharge<br/>
+        <div class="centered">Online Mobile Recharge portal<br/>
             <div class="centered-qoute">Recharge Your Moble in a better way</div>
             <Link to="/recharge"><button type="button" class="btn btn-primary">Recharge</button></Link>
         </div>
